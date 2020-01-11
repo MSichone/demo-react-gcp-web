@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository is for a sample project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It is part of the tutorial for deploying a React application to Google Cloud Platform.
+
+The [tutorial](https://medium.com/@masitano.sichone/creating-a-react-app-on-google-app-engine-de03f3721710) was created by Masitano K.P Sichone
 
 ## Available Scripts
 
